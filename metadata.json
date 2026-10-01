@@ -1,0 +1,7 @@
+{
+  "name": "Sahl - Kuliner Lezat & Aneka Makanan Pilihan",
+  "description": "Website resmi kuliner Sahl menjual aneka hidangan lezat Nusantara dan Timur Tengah, cemilan manis & gurih, paket keluarga, serta minuman segar dengan pemesanan mudah dan cepat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
